@@ -1,4 +1,5 @@
 # vuex-store-sample
+An example about vuex I made with json-server
 
 ## Project setup
 ```
